@@ -6,6 +6,20 @@
 
 希望在这里记录下自己的学习，让自己有那么一点点成就感，可以坚持下去！  
 
+_教程使用的是网上资料，包括但不限于(菜鸟教程)[https://www.runoob.com/cplusplus/cpp-tutorial.html]_  
+我们从这里开始
+```
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Hello, world!" << endl;
+    return 0;
+}
+```
+会从这里结束吗?_谁又知道呢?but who cares?_
+__我祝我c++之旅顺利吧__
+***
 本仓库包含以下内容：
 
 1. 一个标准的学习[流程](spec.md)。
@@ -42,7 +56,8 @@
 
 ## 安装
 
-这个项目使用 [vscode](https://code.visualstudio.com/),具体的环境配置参考[这里](https://www.php.cn/tool/vscode/441244.html)
+这个项目使用 [vscode](https://code.visualstudio.com/),具体的环境配置参考[这里](https://www.php.cn/tool/vscode/441244.html)  
+或者使用傻瓜式操作visual studio2019点[这里下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
 
 ```sh
 待定
