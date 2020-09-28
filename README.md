@@ -6,7 +6,8 @@
 
 希望在这里记录下自己的学习，让自己有那么一点点成就感，可以坚持下去！  
 
-_教程使用的是网上资料，包括但不限于[菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html),C Primer Plus, Fifth Edition,教材书等_
+
+_教程使用的是网上资料，包括但不限于[菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html),C ++Primer, fourth Edition,教材书等_
 我们从这里开始
 ```
 #include <iostream>
