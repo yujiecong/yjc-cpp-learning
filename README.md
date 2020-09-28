@@ -1,4 +1,4 @@
-# 聪聪的c51学习之旅
+# 聪聪的c++学习之旅
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/yujiecong/cc-c51-learning)
 
