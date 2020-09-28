@@ -109,21 +109,25 @@ C++具有一个功能强大的I/O类继承体系结构用于处理数据的输�
 
 
 ### 额外部分
-
+暂无
 
 ### 维护者
-
+[@yujiecong](https://github.com/yujiecong)。
 
 ### 致谢
-
+[@yujiecong](https://github.com/yujiecong)  
+<a href="graphs/contributors"><img src="https://avatars2.githubusercontent.com/u/44287052?s=60&amp;v=4" /></a>
 
 
 ### 如何贡献
 
+非常欢迎你的加入！[提一个 Issue](https://github.com/yujiecong/cc-c51-learning/issues/new) 或者提交一个 Pull Request。
 
 
+本 Readme 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
 
 ### 许可证
+[MIT License](https://github.com/yujiecong/yjc-c--from-s-to-b/blob/master/LICENSE)
 
 
 
