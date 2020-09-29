@@ -59,8 +59,8 @@ __我祝我c++之旅顺利吧__
 
 ## 安装
 
-这个项目使用 [vscode](https://code.visualstudio.com/),具体的环境配置参考[这里](https://www.php.cn/tool/vscode/441244.html)  
-或者使用傻瓜式操作visual studio2019点[这里下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
+这个项目不推荐使用 [vscode](https://code.visualstudio.com/),因为我碰到了很多bug，具体的环境配置参考[这里](https://www.php.cn/tool/vscode/441244.html)
+__推荐使用傻瓜式操作visual studio2019__点[这里下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
 
 ```sh
 待定
