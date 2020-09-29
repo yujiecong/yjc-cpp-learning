@@ -39,6 +39,8 @@ __我祝我c++之旅顺利吧__
 - [如何贡献](#如何贡献)
 - [使用许可](#使用许可)
 ## 更新
+- 2020年9月29日12:16:30 更新[第二章](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20C%2B%2B%E5%9F%BA%E7%A1%80)
+- 2020年9月29日12:15:22，发现vscode有很多bug，文件操作时发现，比如控制台不能cin，调试无反应等，所以用回了vs2019，环境统一为vs2019了。。
 - 2020年9月28日13:16:48 更新了[第一章](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%B8%80%E7%AB%A0%20C%2B%2B%E4%B8%8E%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%BF%B0)，实际上说了一大堆但只是个introduction？
 
 ## 背景
