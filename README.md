@@ -81,7 +81,7 @@ __推荐使用傻瓜式操作visual studio2019__点[这里下载](https://visual
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/yujiecong/cc-c51-learning/issues/new) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/yujiecong/yjc-cpp-learning/issues) 或者提交一个 Pull Request。
 
 
 本 Readme 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
