@@ -36,6 +36,7 @@ __我祝我c++之旅顺利吧__
 - [如何贡献](#如何贡献)
 - [使用许可](#使用许可)
 ## 更新
+- 2020年10月6日15:22:05 学的想死，抵触越来越大了，更新第四章
 - 2020年10月5日15:02:16 更新[第三章](https://github.com/yujiecong/yjc-cpp-learning/tree/master/contents/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1)这一张又臭又长，C++真的太难了，我裂开！！
 - 2020年9月29日12:16:30 更新[第二章](https://github.com/yujiecong/yjc-cpp-learning/tree/master/contents/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20C%2B%2B%E5%9F%BA%E7%A1%80)
 - 2020年9月29日12:15:22，发现vscode有很多bug，文件操作时发现，比如控制台不能cin，调试无反应等，所以用回了vs2019，环境统一为vs2019了。。
