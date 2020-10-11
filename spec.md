@@ -58,29 +58,29 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 本章主要介绍类与对象。类（class）是面向对象程序设计的核心，是实现数据封装和信息隐藏的工具，是继承和多态的基础。  
 因此，本章是全书的基础与重点，也是学习面向对象程序设计技术的基础。学习者一定要掌握类的概念，类成员访问控制，构造函数与析构函数等重要概念。
 
-[点我进入](contents/chapter3-Polymorphism)
+[点我进入](contents/chapter3-class)
 ### 项目4
 继承使软件复用变得简单、易行，可以通过继承复用已有的程序资源，缩短软件开发的周期。  
 本章主要介绍继承的方式，要注意在继承方式下派生类与基类对象之间的关系，以及派生类构造函数如何提供对基类的构造。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E7%BB%A7%E6%89%BF)
+[点我进入](contents/chapter4-inheritance)
 
 ### 项目5
 多态性是面向对象程序设计语言的又一重要特征，它是指不同对象接收到同一消息时会产生不同的行为。继承所处理的是类与类之间的层次关系问题，而多态则是处理类的层次结构之间，以及同一个类内部同名函数的关系问题。  
 简单地说，多态就是在同一个类或继承体系结构的基类与派生类中，用同名函数来实现各种不同的功能。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%A4%9A%E6%80%81%E6%80%A7)
+[点我进入](contents/chapter5-Polymorphism)
 ### 项目6
 运算符重载是C++的一项强大功能。通过重载，可以扩展C++运算符的功能，使它们能够操作用户自定义的数据类型，增加程序代码的直观性和可读性 。  
 本章主要介绍 类成员运算符重载与友元运算符重载,  二元运算符与一元运算符重载,  运算符++、--、[]、（）重载,  this指针与运算符重载及 流运算符<<和>>的重载。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD)
+[点我进入](contents/chapter6-operation)
 ### 项目7
 模板（template）是C++实现代码重用机制的重要工具，是泛型技术（即与数据类型无关的通用程序设计技术）的基础。  
 模板是C++中相对较新的语言机制，它实现了与具体数据类型无关的通用算法程序设计，能够提高软件开发的效率，是程序代码复用的强有力工具。   
 本章主要介绍了函数模板和类模板两类，以及STL库（Standard Template Library）中的几个常用模板数据类型。 
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL)
+[点我进入](chapter7-template)
 
 ### 项目8
 
@@ -90,22 +90,15 @@ C++的异常处理机制能将异常检测与异常处理分离开来，当异�
 
 本章主要介绍C++异常处理的语言机制，包括异常的结构、捕捉和处理，以及异常类。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E5%BC%82%E5%B8%B8)
+[点我进入](contents/chapter8-Exception)
 
 ### 项目9
 C++具有一个功能强大的I/O类继承体系结构用于处理数据的输入/输出问题，该体系结构不仅提供了对系统内置数据类型的输入/输出操作，而且允许程序员通过重载扩展其功能以实现自定义数据类型的输入和输出操作。
 
 本章主要介绍C++流的基本结构，数据的输入输出及其格式化问题，同时还介绍了C++文件的编程技术。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E6%96%87%E4%BB%B6%E4%B8%8E%E6%B5%81)
+[点我进入](contents/chapter9-filestream)
 
-### 项目10
-
-### 项目11
-
-
-
-### 项目12
 
 
 ### 额外部分
