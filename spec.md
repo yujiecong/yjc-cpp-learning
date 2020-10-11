@@ -52,13 +52,13 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 - 变量作用域和生存期
 -  数据输入/输出
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20C%2B%2B%E5%9F%BA%E7%A1%80)
+[点我进入](contents/chapter2-cpp-standard)
 
 ### 项目3
 本章主要介绍类与对象。类（class）是面向对象程序设计的核心，是实现数据封装和信息隐藏的工具，是继承和多态的基础。  
 因此，本章是全书的基础与重点，也是学习面向对象程序设计技术的基础。学习者一定要掌握类的概念，类成员访问控制，构造函数与析构函数等重要概念。
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1)
+[点我进入](contents/chapter3-Polymorphism)
 ### 项目4
 继承使软件复用变得简单、易行，可以通过继承复用已有的程序资源，缩短软件开发的周期。  
 本章主要介绍继承的方式，要注意在继承方式下派生类与基类对象之间的关系，以及派生类构造函数如何提供对基类的构造。
