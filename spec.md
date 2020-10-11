@@ -40,7 +40,7 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 - C++程序的结构及数据输入与输出
 - C++实例编程
 
-[点我进入](https://github.com/yujiecong/yjc-cpp-from-s-to-b/tree/master/contents/%E7%AC%AC%E4%B8%80%E7%AB%A0%20C%2B%2B%E4%B8%8E%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%BF%B0)
+[点我进入](./contents/chapter1-cpp-outline)
 ### 项目2
 本章主要介绍 C++对C语言的某些改变和扩展，是非面向对象方面的特征，包括：
 -  C++的数据类型
